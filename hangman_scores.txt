@@ -1,0 +1,6 @@
+Word: internet, Score: 5
+Word: character, Score: 0
+Word: database, Score: 0
+Word: integer, Score: 6
+Word: computer, Score: 0
+Word: data, Score: 6
